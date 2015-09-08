@@ -1,16 +1,14 @@
-# Currency Exchange Rates
+# Maze Generation
 
-Within the `Assets` folder of this specification directory, there is a seed file that may be used to pre-populate the API with exchange rate information.
+The Recursive Backtracking Search algorithm, is a (slightly inefficient) way of generating depth-first undirected graphs, which can also be used to randomly create (fun) mazes.
 
 ### For You: The Test
 
-> Using the `rates.csv` file, create a Currency API, that is able to return the exchange rate between any two currencies. Ie. `GBP` to `EUR`. All routing is completely up to you and can be implemented in whatever way you think most suitable.
-
->It is important to note that all rates listed within the file are based in US Dollars. Ie. `USD:USD = 1:1`
+> Create an API that implements a backtracking search algorithm. The API will take as part of the request, a width and height value as well as a starting co-ordinate (catesian). A "maze" will then be generated and stored along with an idea inside a Database. The HTTP response will be an array of arrays, containing the generated maze as well as its associated ID.
 
 ### For Us: The Problem
 
-> Create a new API Endpoint using the `currencies.csv` file, that is able to return the associated name for a particular currency code. The technical test should require this functionality to be implemented and tested.
+> The responses are now being used as part of a game. Users are able to best each other's times for completing a maze. Implement an API Endpoint that enables the storing and retrieval of scores by users for particular Mazes.
 
 ## Things to Remember
 
