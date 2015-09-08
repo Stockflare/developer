@@ -4,7 +4,7 @@ Whether you have 5 months or 15 years of experience, Stockflare is looking to em
 
 We are a remote-working company and every developer is responsible for managing and achieving their own objectives in a timely fashion; co-ordinating with the rest of the team on a daily basis. If you are a skilled developer, this position will offer you an unparalleled amount of freedom and flexibility to work with, share and evolve your own personal skills. We passionately encourage the use and incorporation of new languages and bleeding-edge technologies into our platform as it evolves.
 
-At Stockflare, every project is maintained and documented similar to how you would expect to find an open source project. As many of the developers that would work with you are based in different timezones, they may not always be available to ask questions about their work; being able to document and justify your technical implementations clearly (in English) is of utmost importance.
+At Stockflare, every project is maintained and documented similar to how you would expect to find an open source project. As many of the developers that would work with you are based in different timezones, they may not always be available to be asked questions about their work; being able to document and justify your technical implementations clearly (in English) is of the utmost importance.
 
 ## Values / Ethos
 
@@ -14,7 +14,7 @@ At Stockflare, every project is maintained and documented similar to how you wou
   * Speak up. Happy to take charge and try their leadership skills.
   * Aren't afraid of (constantly) taking on new challenges & projects.
 
-Whilst very rewarding, this position will challenge your competence and skills as a developer. If you're ready to take on the challenges of platform development, big-data, the problems of real-time analysis and speed, we encourage you to review the technical test below and submit an application.
+Whilst very rewarding, this position will challenge your competence and skills as a developer. If you're ready to take on the challenges of platform development, big-data, the problems of real-time analysis and speed, we encourage you to review the technical test section below and submit an application.
 
 ---
 
@@ -22,9 +22,9 @@ Whilst very rewarding, this position will challenge your competence and skills a
 
 Follow the three steps below, be certain to read each step carefully.
 
-### 1. Prepare your Resume/CV
+### 1. Prepare your Resume/CV/Online Profile
 
-Tell us who you are, we need some formal documentation of your experience and history in the industry.
+Tell us who you are, we need some formal documentation or a link to your experience and history in the industry.
 
 ### 2. Technical Test
 
@@ -45,4 +45,5 @@ Writing as a developer myself, I am almost certain you have an idea for your own
 ### 4. Email it.
 
   0. Drop `date +%s` into a terminal, to get the current seconds since epoch.
-  0. Using the timestamp, compile everything together and send an email to `careers+developer+full-stack+<epoch_timestamp>@stockflare.com`.
+  0. Attach your own Specification and Resume/CV and grab the link to your technical test on Github.
+  0. Using the timestamp, send an email to `careers+developer+full-stack+<epoch_timestamp>@stockflare.com`.
